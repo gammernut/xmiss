@@ -1,0 +1,21 @@
+
+
+dir # list everything in the current directory / folder
+
+cd # change directory / folder
+
+cd. # go back a directory / folder
+
+mkdir foldername # makes a directory / folder called foldername
+
+cd foldername # changes current directory / folder to foldername
+
+python -m venv venv # makes a virtual environment called venv
+
+venv\Scripts\activate # starts the virtual environment called venv
+
+python -m pip install --upgrade pip # updates pip
+
+python -m pip install thething # installs the package (the thing is placeholder)
+
+python -m pip install git+https://github.com/ # pip install from a github url
